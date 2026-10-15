@@ -1,5 +1,7 @@
 # Ember Valley
 
+![Ember Valley](screenshot.png)
+
 A first-person 3D browser game built to push the **AMD Ryzen AI Max+ 395** (Strix Halo) — 16 Zen 5 cores, Radeon 8060S graphics and a large pool of shared memory.
 
 Twelve embers are scattered across a mountain valley at golden hour. Gather all of them before the sun sets and the valley goes dark.
